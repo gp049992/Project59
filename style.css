@@ -1,0 +1,42 @@
+body{
+  text-align:center;
+  background:linear-gradient(#126a78 0%,#0dff00 100%);
+  background-repeat:no-repeat;
+}
+
+}
+h1 {
+  text-shadow:2px 2px #F8BBDO;
+  font-size:20px;
+  color:darkblue;
+ }
+.line{
+  width:60px;
+  height:10px;
+  background-color:black;
+  margin:10px auto;
+ 
+}
+.menu {
+  list-style: none;
+  font-family: lobster;
+  float:right;
+  top:10px;
+  right:30px;
+  cursor:pointer;
+  color:black;
+}
+.list {
+  float:left;
+  padding:8px;
+  font-size;
+  color:aqua
+}
+.list:hover {
+  background-color: #d19d19;
+}
+
+#img {
+  width:50;
+    height: 50;
+}
